@@ -1,7 +1,7 @@
 import ProductInformation from "./pages/productInformation/ProductInformation";
 import ProductTest from "./pages/ProductInTest";
 import Home from "./pages/home/Home";
-//import AddProduct from "./pages/productInformation/AddProduct/addProduct";
+
 import AddProduct from "./pages/productInformation/addproduct/AddProduct";
 import Booking from "./pages/booking/Booking";
 import Emergency from "./pages/emergency/Emergency";
