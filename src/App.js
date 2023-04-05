@@ -12,7 +12,7 @@ import Receipt from "./pages/booking/bookingDetail/Receipt";
 import Chat from "./pages/chat/Chat";
 import Main  from "./main/Main";
 
-// import './App.css';
+
 import {BrowserRouter,Routes,Route,} from 'react-router-dom'
 function App() {
   return (
